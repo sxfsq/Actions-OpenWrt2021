@@ -17,4 +17,6 @@ src-git xray https://github.com/yichya/luci-app-xray.git
 src-git small https://github.com/kenzok8/small
 src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash.git
+src-git gostUDPspeeder https://github.com/wangyu-/UDPspeeder
 src-git gost https://github.com/ginuerzh/gost
+src-git gostopenwrt https://github.com/lihaixin/gost.git
