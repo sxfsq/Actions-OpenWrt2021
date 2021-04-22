@@ -13,10 +13,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git helloworld https://github.com/fw876/helloworld
 src-git brook https://github.com/xiaorouji/openwrt-passwall.git
 src-git xray https://github.com/yichya/luci-app-xray.git
-#src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash.git
-src-git gostUDPspeeder https://github.com/wangyu-/UDPspeeder
-src-git gost https://github.com/ginuerzh/gost
-src-git gostopenwrt https://github.com/lihaixin/gost.git
