@@ -17,5 +17,4 @@ src-git xray https://github.com/yichya/luci-app-xray.git
 src-git small https://github.com/kenzok8/small
 src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash.git
-src-git gost https://github.com/kenzok8/openwrt-packages/luci-app-gost
-#src-git gost https://github.com/ginuerzh/gost
+src-git gost https://github.com/ginuerzh/gost
