@@ -18,3 +18,4 @@ src-git small https://github.com/kenzok8/small
 src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash.git
 src-git gost https://github.com/sxfsq/openwrt-packages/tree/master/luci-app-gost
+#src-git gost https://github.com/ginuerzh/gost
