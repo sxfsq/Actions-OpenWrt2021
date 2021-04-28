@@ -21,4 +21,6 @@ src-git brook https://github.com/xiaorouji/openwrt-passwall.git
 src-git xray https://github.com/yichya/luci-app-xray.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git OpenClash https://github.com/vernesong/OpenClash.git
+src-git dockerman https://github.com/lisaac/luci-app-dockerman.git
+src-git diskman https://github.com/lisaac/luci-app-diskman.git
 #src-git koolproxyR https://github.com/immortalwrt/luci-app-koolproxyR.git
